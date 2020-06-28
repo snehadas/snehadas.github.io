@@ -17,12 +17,14 @@ redirect_from:
 	* “Cell Imaging and Analysis using Machine Learning”, Summer School in Advanced Live Cell
 Imaging, UCPH
 
-	 “Features for Image Analysis”, Danish Meteorological Institute ([slides](files/dmi.pdf)) 
+	* “Features for Image Analysis”, Danish Meteorological Institute ([slides](files/dmi.pdf)) 
 
 	* “Graph Refinement based Airway Extraction using Mean-Field and Graph Neural Networks”,
 Department of Computer Science, Aalto University School of Science ([slides](files/aalto.pdf))
 
 * 2018 
+	* PhD Defence, University of Copenhagen ([slides](files/phd.pdf))
+
 	* “Graph Refinement using GNNs With a focus on Airway Extraction”, Erasmus Medical Center,
 Rotterdam ([slides](files/rotterdam.pdf))
 	
