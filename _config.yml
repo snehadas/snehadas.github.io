@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=R9VBQ54AAAAJ&hl=en"
   email            : "raghav@di.ku.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "blog.sarvajna.in/"
+  url              : "blog.sarvajna.in/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  blog        : "blog.sarvajna.in/"
+
 
 
 # Reading Files
