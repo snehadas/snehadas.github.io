@@ -9,53 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+PhD projects
 ======
-* PhD in Medical Image Analysis, University of Copenhagen, Denmark (2018)
-* MSc in Electrical Engineering, Chalmers University, Sweden (2015) 
-* Bachelor in Electronics and Communication Engineering, BMS Institute of Technology, India (2009) 
+* Roser Montanana Rosell
+	* 2020
+	* Role: Co-supervisor 
 
-Work experience
+MSc Theses
 ======
-* Jan 2019 -- Ongoing
-	* Employer: University of Copenhagen, Copenhagen
-	* Role: Post-doc 
+* Dattijo Murtala Makama (Visiting student)
+	* Ongoing
+	* Topic: Self-superised medical image segmentation
+	* Role: Primary supervisor
+* Anand Bansal
+	* Ongoing
+	* Topic: Uncertainty quantification in medical image segmentation
+	* Role: Primary supervisor
+* Ruta Masiulyte
+	* 2019
+	* Topic: Retinal blood vessel segmentation using GNNs
+	* Role: Primary supervisor
+* Basile Nicolas Rommes
+	* 2019 
+	* Mean Field Networks for Retinal Blood Vessel Segmentation 
+	* Role: primary supervisor
+* Abraham Smith
+	* 2018 
+	* Root Segmentation using Convolutional Neural Networks ([publication](https://raghavian.github.io/publication/2019-01-01-Segmentation-of-roots-in-soil-with-U-Net))
+	* Role: Co-supervisor
 
-* Aug 2011 -- July 2013
-	* Employer: BMS Institute of Technology, Bangalore
-	* Role: Lecturer
+MSc Projects
+======
+* Andy Sode Anker
+	* 2020
+	* Using CVAEs to Extract Structural Motifs from X-ray Scattering Data
+	* Role: primary supervisor
+* Xuan Zhong  
+	* 2019
+	* Zero-Shot Relation Extraction using Graph Neural Networks
+	* Role: Co-supervisor
 
-* Nov 2009 -- July 2011
-	* Employer: MRO-TEK, Bangalore
- 	* Role: Networking Engineer
+BSc projects
+======
+* Benjamin Kanding & Lasse F. Wolff Anthony
+	* 2020
+	* Topic: The Carbon Footprint of Training Deep Learning Models
+	* Role: Primary supervisor
+* Gilli Fjallstein
+	* 2020
+	* Topic: Locomotion behaviour analysis of mice from video sequences
+	* Role: Primary supervisor
+* Peter Kristoffer Licht
+	* 2016
+	* Topic: Implementation of automatic blood vessel segmentation in retinal images using
+the Kalman filter
+	* Role: Co-supervisor
  
-
-Skills
-======
-
-* Freelance writer
-	* Nov 2011 -- Ongoing
-	* Employers: The Hindu, Frontline
-	* Role: Columnist
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
