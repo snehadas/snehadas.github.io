@@ -16,7 +16,13 @@ Raghavendra Selvan (Raghav) is currently a Postdoctoral researcher at the Machin
 Research Interests
 ===== 
 
-His research interests broadly include Bayesian and non-Euclidean deep learning applied to Medical Image Analysis and Bayesian tracking theory.
+Raghav's current research interests broadly include:
+* Medical image analysis
+* Graph-based learning
+* Deep generative models
+* Approximate Bayesian inference
+* Bayesian tracking theory
+
 
 
 <!--
