@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=R9VBQ54AAAAJ&hl=en"
   email            : "raghav@di.ku.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  url              : "blog.sarvajna.in/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
