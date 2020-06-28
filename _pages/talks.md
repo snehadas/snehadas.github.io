@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 * 2020
-	
+	* "Machine learning for Medical Image Analysis", Alumni Talk, BMS Institute of Technology
+	* "Inclusive AI", Free Software Movement - Karnataka	
 
 * 2019
 	* “Cell Imaging and Analysis using Machine Learning”, Summer School in Advanced Live Cell
