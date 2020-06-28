@@ -11,57 +11,47 @@ redirect_from:
 
 PhD projects
 ======
-* Roser Montanana Rosell
-	* 2020
+* Roser Montanana Rosell (2020 --)
 	* Role: Co-supervisor 
 
-MSc Theses
+Masters Theses
 ======
-* Dattijo Murtala Makama (Visiting student)
-	* Ongoing
+* Dattijo Murtala Makama (Ongoing)
+	* Visiting student
 	* Topic: Self-superised medical image segmentation
 	* Role: Primary supervisor
-* Anand Bansal
-	* Ongoing
+* Anand Bansal (Ongoing)
 	* Topic: Uncertainty quantification in medical image segmentation
 	* Role: Primary supervisor
-* Ruta Masiulyte
-	* 2019
+* Ruta Masiulyte (2019)
 	* Topic: Retinal blood vessel segmentation using GNNs
 	* Role: Primary supervisor
-* Basile Nicolas Rommes
-	* 2019 
+* Basile Nicolas Rommes (2019)
 	* Mean Field Networks for Retinal Blood Vessel Segmentation 
 	* Role: primary supervisor
-* Abraham Smith
-	* 2018 
+* Abraham Smith (2018)
 	* Root Segmentation using Convolutional Neural Networks ([publication](https://raghavian.github.io/publication/2019-01-01-Segmentation-of-roots-in-soil-with-U-Net))
 	* Role: Co-supervisor
 
-MSc Projects
+Masters Projects
 ======
-* Andy Sode Anker
-	* 2020
-	* Using CVAEs to Extract Structural Motifs from X-ray Scattering Data
+* Andy Sode Anker (2020)
+	* Topic: Using CVAEs to Extract Structural Motifs from X-ray Scattering Data
 	* Role: primary supervisor
-* Xuan Zhong  
-	* 2019
-	* Zero-Shot Relation Extraction using Graph Neural Networks
+* Xuan Zhong (2019) 
+	* Topic: Zero-Shot Relation Extraction using Graph Neural Networks
 	* Role: Co-supervisor
 
-BSc projects
+Bachelor projects
 ======
-* Benjamin Kanding & Lasse F. Wolff Anthony
-	* 2020
-	* Topic: The Carbon Footprint of Training Deep Learning Models
+* Benjamin Kanding & Lasse F. Wolff Anthony (2020)
+	* Topic: The Carbon Footprint of Training Deep Learning Models ([Python package](https://pypi.org/project/carbontracker/))
 	* Role: Primary supervisor
-* Gilli Fjallstein
-	* 2020
+* Gilli Fjallstein (2020)
 	* Topic: Locomotion behaviour analysis of mice from video sequences
 	* Role: Primary supervisor
-* Peter Kristoffer Licht
-	* 2016
+* Peter Kristoffer Licht (2016)
 	* Topic: Implementation of automatic blood vessel segmentation in retinal images using
 the Kalman filter
 	* Role: Co-supervisor
- 
+
