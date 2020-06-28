@@ -17,12 +17,10 @@ Research Interests
 ===== 
 
 Raghav's current research interests broadly include:
-* Medical image analysis
-* Graph-based learning
-* Deep generative models
+* [Medical image analysis](https://soeg.kb.dk/discovery/fulldisplay?context=L&vid=45KBDK_KGL:KGL&search_scope=MyInst_and_CI&tab=Everything&docid=alma99123156023805763)
+* [Graph-based learning](https://arxiv.org/abs/1811.08674)
+* [Bayesian tracking theory](https://odr.chalmers.se/handle/20.500.12380/220888)
 * Approximate Bayesian inference
-* Bayesian tracking theory
-
 
 
 <!--
