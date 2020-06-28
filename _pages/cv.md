@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Medical Image Analysis, University of Copenhagen, Denmark (2018)
+* MSc in Electrical Engineering, Chalmers University, Sweden (2015) 
+* Bachelor in Electronics and Communication Engineering, BMS Institute of Technology, India (2009) 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2019 -- Ongoing
+	* Employer: University of Copenhagen, Copenhagen
+	* Role: Post-doc 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Aug 2011 -- July 2013
+	* Employer: BMS Institute of Technology, Bangalore
+	* Role: Lecturer
+
+* Nov 2009 -- July 2011
+	* Employer: MRO-TEK, Bangalore
+ 	* Role: Networking Engineer
+ 
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Freelance writer
+	* Nov 2011 -- Ongoing
+	* Employers: The Hindu, Frontline
+	* Role: Columnist
 
 Publications
 ======
