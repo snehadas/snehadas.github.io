@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raghavendra Selvan / Personal Website"
+title                    : "Raghavendra Selvan / Academic Profile"
 title_separator          : "-"
 name                     : &name "Raghav"
 description              : &description "personal description"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  wordpress        : "blog.sarvajna.in/"
 
 
 # Reading Files
