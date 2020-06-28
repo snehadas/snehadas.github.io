@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raghavendra Selvan / Academic Profile"
+title                    : "Raghavendra Selvan"
 title_separator          : "-"
 name                     : &name "Raghav"
 description              : &description "personal description"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Raghav"
   avatar           : "profile.png"
-  bio              : "Post-doc, Machine Learning Section & Data Science Lab, University of Copenhagen"
+  bio              : "Post-doc @ Machine Learning Section & Data Science Lab, University of Copenhagen"
   location         : "Bangalore/Copenhagen"
   employer         : "University of Copenhagen"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=R9VBQ54AAAAJ&hl=en"
   email            : "raghav@di.ku.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "blog.sarvajna.in/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wordpress        : "blog.sarvajna.in/"
+  blog        : "blog.sarvajna.in/"
 
 
 # Reading Files
