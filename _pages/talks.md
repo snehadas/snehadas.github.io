@@ -31,4 +31,5 @@ AMLab, University of Amsterdam ([slides](files/amsterdam.pdf))
 	* "Extraction of Airways from CT Data Using Bayesian Smoothing", MICCAI Workshop on GRaphs in biomedicAl Image anaLysis, Quebec ([slides](files/grail.pdf))
 
 * 2016
+	* "Introduction to university pedagoy lecture on Pattern Recognition", University of Copenhagen ([video](https://www.youtube.com/watch?v=3RfOFVvhYGU))
 	* "Extraction of airway trees from CT data Using Multiple Hypothesis Tracking and Statistical Ranking of Template-matched Hypotheses", MICCAI workshop on Pulmonary Image Analysis, Athens ([slides](files/pia.pdf))
