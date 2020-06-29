@@ -16,6 +16,7 @@ His current research interests are Bayesian Machine Learning related and broadly
 
 Research Projects
 ======
+*Switching to first person :)*
 
 I am actively involved in a wide range of research projects as part of my roles at the Machine Learning section and Data Science Lab of University of Copenhagen. Brief descriptions of ongoing and completed projects are listed below.
 
