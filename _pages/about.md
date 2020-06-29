@@ -14,7 +14,7 @@ Raghavendra Selvan (Raghav) is currently a Postdoctoral researcher at the Machin
 
 His current research interests are Machine Learning related and broadly include Medical image analysis, Graph-based learning, Tensor networks, Approximate Bayesian inference and Bayesian tracking theory.
 
-Projects
+Research Projects
 ======
 
 I am actively involved in a wide range of projects as part of my roles at the Machine Learning section and Data Science Lab of University of Copenhagen. Brief descriptions of ongoing and completed projects are listed below.
@@ -36,6 +36,6 @@ Medical image segmentation with well calibrated and meaningful uncertainty estim
 
 Completed
 ---
-* **Extraction of airways from volumetric data** (PhD Thesis)[]
-* **Bayesian tracking of multiple point targets** (MSc Thesis)[]
+* **Extraction of airways from volumetric data** (PhD Thesis)[https://raghavian.github.io/publication/2018-01-01-Extraction-of-Airways]
+* **Bayesian tracking of multiple point targets** (MSc Thesis)[https://raghavian.github.io/publication/2015-01-01-Bayesian-tracking-EM]
 
