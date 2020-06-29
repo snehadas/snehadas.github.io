@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---
 * PhD in Medical Image Analysis, University of Copenhagen, Denmark (2018)
 * MSc in Electrical Engineering, Chalmers University, Sweden (2015) 
 * Bachelor in Electronics and Communication Engineering, BMS Institute of Technology, India (2009) 
 
 Work experience
-======
+---
 * Jan 2019 -- Ongoing
 	* Employer: University of Copenhagen, Copenhagen
 	* Role: Post-doc 
@@ -34,18 +34,17 @@ Work experience
 	* Nov 2011 - Ongoing
 
 Awards
-======
+---
 * Swedish Institute Scholarship covering MSc expenses (2013)
 * Limca Book of Records Award: Team Member of India’s smallest satellite project - StudSat (2011)
 
 Skills
-======
+---
 * Reviewer at high impact journals and conferences such as IEEE Transactions of Medical Image Analysis, Medical Image Analysis, MICCAI, MIDL, NeurIPS
 * [Blogger](http://blog.sarvajna.in)
 
-
 Publications
-======
+---
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
