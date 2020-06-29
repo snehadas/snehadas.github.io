@@ -42,7 +42,7 @@ Echolocation used by narwhals can reveal their behaviour. In this collaboration 
 
 Completed projects
 ---
-* **Segmentation of roots in soil** (2019): [Collaboration with Plant & Environmental Science Dept.](https://raghavian.github.io/publication/2019-01-01-Segmentation-of-roots-in-soil-with-U-Net)
+* **Segmentation of roots in soil** (2019): [Collaboration with Plant & Environ. Science Dept.](https://raghavian.github.io/publication/2019-01-01-Segmentation-of-roots-in-soil-with-U-Net)
 * **Extraction of airways from volumetric data** (2018): [PhD Thesis](https://raghavian.github.io/publication/2018-01-01-Extraction-of-Airways)
 * **Bayesian tracking of multiple point targets** (2015): [MSc Thesis](https://raghavian.github.io/publication/2015-01-01-Bayesian-tracking-EM)
 * **India's first pico-satellite** (2010): [Collaboration with Indian Space Research Organisation](https://earth.esa.int/web/eoportal/satellite-missions/s/studsat-1)
