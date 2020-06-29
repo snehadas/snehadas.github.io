@@ -21,7 +21,7 @@ Imaging, UCPH
 Department of Computer Science, Aalto University School of Science ([slides](files/aalto.pdf))
 
 * 2018 
-	* PhD Defence, University of Copenhagen ([slides](files/phd.pdf))
+	* "Extraction of airways from volumetric data", PhD Defence, University of Copenhagen ([slides](files/phd.pdf))
 	* “Graph Refinement using GNNs With a focus on Airway Extraction”, Erasmus Medical Center,
 Rotterdam ([slides](files/rotterdam.pdf))
 	
@@ -33,3 +33,6 @@ AMLab, University of Amsterdam ([slides](files/amsterdam.pdf))
 * 2016
 	* "Introduction to university pedagoy lecture on Pattern Recognition", University of Copenhagen ([video](https://www.youtube.com/watch?v=3RfOFVvhYGU))
 	* "Extraction of airway trees from CT data Using Multiple Hypothesis Tracking and Statistical Ranking of Template-matched Hypotheses", MICCAI workshop on Pulmonary Image Analysis, Athens ([slides](files/pia.pdf))
+
+* 2015
+	* "Bayesian tracking of multiple point targets Using Expectation Maximization", MSc defence, Chalmers University ([slides](files/msc.pdf))
