@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Post-doc @ Machine Learning Section & Data Science Lab, University of Copenhagen"
   location         : "Bangalore/Copenhagen"
-  employer         : "University of Copenhagen"
+  employer         : #"University of Copenhagen"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=R9VBQ54AAAAJ&hl=en"
   email            : "raghav@di.ku.dk"
