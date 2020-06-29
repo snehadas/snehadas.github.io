@@ -36,6 +36,6 @@ Medical image segmentation with well calibrated and meaningful uncertainty estim
 
 Completed
 ---
-* **Extraction of airways from volumetric data** (PhD Thesis)[https://raghavian.github.io/publication/2018-01-01-Extraction-of-Airways]
-* **Bayesian tracking of multiple point targets** (MSc Thesis)[https://raghavian.github.io/publication/2015-01-01-Bayesian-tracking-EM]
+* **Extraction of airways from volumetric data** [PhD Thesis](https://raghavian.github.io/publication/2018-01-01-Extraction-of-Airways)
+* **Bayesian tracking of multiple point targets** [MSc Thesis](https://raghavian.github.io/publication/2015-01-01-Bayesian-tracking-EM)
 
