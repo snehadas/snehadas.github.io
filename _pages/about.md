@@ -16,6 +16,13 @@ His current research interests broadly include [Medical image analysis](https://
 
 Projects
 ======
+
+Ongoing 
+---
+
+Completed
+---
+
 I am actively involved in a wide range of projects as part of my roles at the Machine Learning section and Data Science Lab of University of Copenhagen.
 
 * COVID-19 Risk Modelling: 
