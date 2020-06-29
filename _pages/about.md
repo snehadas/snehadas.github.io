@@ -19,7 +19,7 @@ Research Projects
 
 I am actively involved in a wide range of research projects as part of my roles at the Machine Learning section and Data Science Lab of University of Copenhagen. Brief descriptions of ongoing and completed projects are listed below.
 
-Ongoing 
+Ongoing projects 
 ---
 
 * **COVID-19 Risk Modelling**: 
@@ -31,16 +31,16 @@ Medical image segmentation with well calibrated and meaningful uncertainty estim
 * **Low Resource Machine Learning**:
 Reducing the reliance on high quality labeled data and expensive hardware resources can globally democratise ML methods. With this focus,  we recently introduced [tensor networks for medical image classification](https://raghavian.github.io/publication/2020-01-01-Tensor-Networks-for-Medical-Image-Classification) tasks that require less than 10% of GPU resources when compared to traditional deep learning models to obtain comparable performances.
 
-* Locomotion analysis:
-In this collabortion, my role has been to analyze videos of mice running on treadmills in order to extract speed and cadence statistics. The results of analyzing some 1000 videos have accentuated the role of [specific interneurons in the spinal cord that influence locomotion](https://raghavian.github.io/publication/2020-01-01-Locomotor-deficits-in-ALS-mice-are-paralleled-by-loss-of-V1-interneuron-connections-onto-fast-motor-neurons).
+* **Locomotion analysis**:
+In this collabortion with [Kiehn Lab](https://in.ku.dk/research/ole-kiehn/), my role has been to analyze videos of mice running on treadmills in order to extract speed and cadence statistics. The results of analyzing some 1000 videos have accentuated the role of [specific interneurons in the spinal cord that influence locomotion](https://raghavian.github.io/publication/2020-01-01-Locomotor-deficits-in-ALS-mice-are-paralleled-by-loss-of-V1-interneuron-connections-onto-fast-motor-neurons).
 
-* Generative Modelling of nanoparticles: 
+* **Generative Modelling of nanoparticles**: 
 Obtaining structures from scattering data for nanomolecules turns out to be an expensive and difficult task. This ongoing collaboration with [Prof. Kirsten Jensen’s group](https://chem.ku.dk/ansatte/alle/?pure=en/persons/540779) has already made advancements in simulating feasible nanomolecular structures using novel deep generative models.
 
-* Behavioural analysis of narwhals: 
+* **Behavioural analysis of narwhals**: 
 Echolocation used by narwhals can reveal their behaviour. In this collaboration with [Prof. Susanne Ditlevsen's group](http://web.math.ku.dk/~susanne/), we are using machine learning methods to decode the echolation data and understand the animal behaviour.
 
-Completed
+Completed projects
 ---
 * **Extraction of airways from volumetric data** [PhD Thesis](https://raghavian.github.io/publication/2018-01-01-Extraction-of-Airways)
 * **Bayesian tracking of multiple point targets** [MSc Thesis](https://raghavian.github.io/publication/2015-01-01-Bayesian-tracking-EM)
