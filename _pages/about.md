@@ -23,12 +23,10 @@ Ongoing
 ---
 
 * **COVID-19 Risk Modelling**: 
-	As part of a collaboration with the hospitals in Zealand region of Denmark, we are modelling COVID-19 risk from clinical and image data. I am contributing to the team focusing on using chest X-rays at admission to model risk of COVID-19. 
-
-As a first step, a [segmentation model](https://raghavian.github.io/publication/2020-01-01-Lung-Segmentation-from-Chest-X-rays-using-Variational-Data-Imputation) that takes lung opacity into account by performing variational data imputation has been developed. 
+	As part of a collaboration with the hospitals in Zealand region of Denmark, we are modelling COVID-19 risk from clinical and image data. I am contributing to the team focusing on [using chest X-rays](https://raghavian.github.io/publication/2020-01-01-Lung-Segmentation-from-Chest-X-rays-using-Variational-Data-Imputation) at admission to model risk of COVID-19.
 
 * **Uncertainty Quantification**:
-	Medical image segmentation with meaningful uncertainty estimation can be more useful in clinical settings. With this in focus we proposed a [probabilistic segmentation model]((https://raghavian.github.io/publication/2020-01-01-Uncertainty-quantification-in-medical-image-segmentation-with-Normalizing-Flows) to use normalizing flows to improve expressivity of conditional generative models used in segmentation tasks. 
+Medical image segmentation with meaningful uncertainty estimation can be more useful in clinical settings. With this in focus we proposed a [probabilistic segmentation model](https://raghavian.github.io/publication/2020-01-01-Uncertainty-quantification-in-medical-image-segmentation-with-Normalizing-Flows) that uses normalizing flows to improve the diversity of segmented samples.
 
 * Low Resource Machine Learning:
 * Generative Modelling of nanoparticles:
