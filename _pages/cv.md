@@ -33,6 +33,17 @@ Work experience
 	* Columnist for [The Hindu](https://www.thehindu.com/profile/author/RaghavendraS/), [Frontline](https://frontline.thehindu.com/profile/author/Raghavendra-Selvan/)
 	* Nov 2011 - Ongoing
 
+Awards
+======
+* Swedish Institute Scholarship covering MSc expenses (2013)
+* Limca Book of Records Award: Team Member of India’s smallest satellite project - StudSat (2011)
+
+Skills
+======
+* Reviewer at high impact journals and conferences such as IEEE Transactions of Medical Image Analysis, Medical Image Analysis, MICCAI, MIDL, NeurIPS
+* [Blogger](http://blog.sarvajna.in)
+
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
