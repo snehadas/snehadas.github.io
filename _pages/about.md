@@ -43,5 +43,8 @@ Echolocation used by narwhals can reveal their behaviour. In this collaboration 
 Completed projects
 ---
 * **Extraction of airways from volumetric data** [PhD Thesis](https://raghavian.github.io/publication/2018-01-01-Extraction-of-Airways)
+
+* **Segmentation of roots in soil**: [Collaboration with Plant \& Environmental Science Dept. at UCPH](https://raghavian.github.io/publication/2019-01-01-Segmentation-of-roots-in-soil-with-U-Net)
+
 * **Bayesian tracking of multiple point targets** [MSc Thesis](https://raghavian.github.io/publication/2015-01-01-Bayesian-tracking-EM)
 
