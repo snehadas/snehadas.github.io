@@ -6,4 +6,4 @@ date: 2020-01-01
 venue: 'the proceedings of International Conference on Medical Imaging with Deep Learning (MIDL)'
 citation: ' Raghavendra Selvan,  Erik Dam, &quot;Tensor Networks for Medical Image Classification.&quot; In the proceedings of International Conference on Medical Imaging with Deep Learning (MIDL), 2020.'
 ---
-[PDF](https://openreview.net/pdf?id=jjk6bxk07G)
+[PDF](https://openreview.net/pdf?id=jjk6bxk07G)    [Video](https://www.youtube.com/watch?v=CpBJVULSGiY&)
