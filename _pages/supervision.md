@@ -45,7 +45,7 @@ Masters Projects
 Bachelor projects
 ======
 * Benjamin Kanding & Lasse F. Wolff Anthony (2020)
-	* Topic: The Carbon Footprint of Training Deep Learning Models ([Python package](https://pypi.org/project/carbontracker/))
+	* Topic: The Carbon Footprint of Training Deep Learning Models ([Python package](https://pypi.org/project/carbontracker/), [Publication](https://raghavian.github.io/publication/2020-07-carbontracker))
 	* Role: Primary supervisor
 * Gilli Fjallstein (2020)
 	* Topic: Locomotion behaviour analysis of mice from video sequences
