@@ -35,6 +35,7 @@ Work experience
 
 Awards
 ---
+* [Runner-up Best Paper Award](https://2020.midl.io/papers/selvan20.html) at International Conference of Medical Imaging with Deep Learning (2020)
 * Swedish Institute Scholarship covering MSc expenses (2013)
 * Limca Book of Records Award: Team Member of India’s smallest satellite project - StudSat (2011)
 
