@@ -36,7 +36,7 @@ Reducing the reliance on high quality labeled data and expensive hardware resour
 In this collabortion with [Kiehn Lab](https://in.ku.dk/research/ole-kiehn/), my role has been to analyze videos of mice running on treadmills in order to extract speed, cadence and coordination statistics. The results from analyzing some 1000 videos have accentuated the role of [specific interneurons in the spinal cord that influence locomotion](https://raghavian.github.io/publication/2020-01-01-Locomotor-deficits-in-ALS-mice-are-paralleled-by-loss-of-V1-interneuron-connections-onto-fast-motor-neurons).
 
 * **Generative Modelling of nanoparticles**: 
-Obtaining structures from scattering data for nanomolecules turns out to be an expensive and difficult task. This ongoing collaboration with [Prof. Kirsten Jensen’s group](https://chem.ku.dk/ansatte/alle/?pure=en/persons/540779) we are explorting generating valid nanomolecular structures from x-ray scattering data using novel deep generative models.
+Obtaining structures from scattering data for nanomolecules turns out to be an expensive and difficult task. This ongoing collaboration with [Prof. Kirsten Jensen’s group](https://chem.ku.dk/ansatte/alle/?pure=en/persons/540779) we are explorting generating valid nanomolecular structures from x-ray scattering data using deep generative models with [promising early results](https://raghavian.github.io/publication/2020-07-characterisingAtomicStrucs).
 
 * **Behavioural analysis of narwhals**: 
 Echolocation used by narwhals can reveal their behaviour. In this collaboration with [Prof. Susanne Ditlevsen's group](http://web.math.ku.dk/~susanne/), we are using machine learning methods to decode the echolation data and understand the animal behaviour.
