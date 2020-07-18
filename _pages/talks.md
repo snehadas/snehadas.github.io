@@ -11,7 +11,7 @@ redirect_from:
 
 * 2020
 	* "Tensor networks for medical image classification", International conference of Medical Imaging with Deep Learning (MIDL 2020), ([slides](files/midl2020.pdf)) ([video](https://www.youtube.com/watch?v=CpBJVULSGiY&feature=share))
-	* "Machine learning for Medical Image Analysis", Alumni Talk, BMS Institute of Technology
+	* "Machine learning for Medical Image Analysis", Alumni Talk @ BMS Institute of Technology. Also at SIT, Tumkur ([video](https://www.youtube.com/watch?v=cNFveRTSRq4&))
 	* "Inclusive AI", Free Software Movement - Karnataka	
 
 * 2019
