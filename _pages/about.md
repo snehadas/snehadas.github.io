@@ -18,7 +18,7 @@ News
 ======
 * 2020-08: Featured in Computer Vision News with an [interview](https://rsipvision.com/ComputerVisionNews-2020August/24/) about our [MIDL paper](https://raghavian.github.io/publication/2020-01-01-Tensor-Networks-for-Medical-Image-Classification)
 * 2020-07: Runner-up for the Best Paper Award at [MIDL-2020](https://2020.midl.io/papers/selvan20.html)
-* 2019-01: Started as Post-doc at the Department of Computer Science, University of Copenhagen
+* 2019-01: Started as Post-doc at Dept. of Computer Science, University of Copenhagen
 * 2018-11: Successfully defended my [PhD thesis](https://raghavian.github.io/publication/2018-01-01-Extraction-of-Airways)
 
 
