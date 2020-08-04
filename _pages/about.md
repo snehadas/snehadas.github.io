@@ -16,8 +16,10 @@ His current research interests are broadly pertaining Bayesian Machine Learning,
 
 News
 ======
-* Featured in Computer Vision News (Aug. 2020) with an [interview](https://rsipvision.com/ComputerVisionNews-2020August/24/) about our MIDL paper
-* Runner-up for the Best Paper Award at [MIDL,2020](https://2020.midl.io/papers/selvan20.html)
+* 2020-08: Featured in Computer Vision News (Aug. 2020) with an [interview](https://rsipvision.com/ComputerVisionNews-2020August/24/) about our MIDL paper
+* 2020-07: Runner-up for the Best Paper Award at [MIDL-2020](https://2020.midl.io/papers/selvan20.html)
+* 2019-01: Started as Post-doc at the Department of Computer Science, University of Copenhagen
+* 2018-11: Successfully defended my [PhD thesis](https://raghavian.github.io/publication/2018-01-01-Extraction-of-Airways)
 
 
 Research Projects
