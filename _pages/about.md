@@ -14,6 +14,12 @@ Raghavendra Selvan (Raghav) is currently a Postdoctoral researcher at the Machin
 
 His current research interests are broadly pertaining Bayesian Machine Learning, with a focus on Medical image analysis, Graph-based learning, Tensor networks, Approximate Bayesian inference and Bayesian tracking theory.
 
+News
+======
+* Featured in Computer Vision News (Aug. 2020) with an [interview](https://rsipvision.com/ComputerVisionNews-2020August/24/) about our MIDL paper
+* Runner-up for the Best Paper Award at [MIDL,2020](https://2020.midl.io/papers/selvan20.html)
+
+
 Research Projects
 ======
 *(Switching to first person :)*
