@@ -86,7 +86,7 @@ author:
   location         : "Bangalore/Copenhagen"
   employer         : #"University of Copenhagen"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=R9VBQ54AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=R9VBQ54AAAAJ&view_op=list_works&sortby=pubdate"
   email            : "raghav@di.ku.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
