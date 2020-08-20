@@ -16,11 +16,14 @@ PhD projects
 
 Masters Theses
 ======
+* Jan Mikolaj Kaminski (Ongoing)
+	* Topic: Deep learning-based spatial localisation of interneuron markers within the spinal cord by in situ sequencing
+	* Role: Primary supervisor
 * Dattijo Murtala Makama (Ongoing)
 	* Visiting student
 	* Topic: Self-superised medical image segmentation
 	* Role: Primary supervisor
-* Anand Bansal (Ongoing)
+* Anand Bansal (2020)
 	* Topic: Uncertainty quantification in medical image segmentation
 	* Role: Primary supervisor
 * Ruta Masiulyte (2019)
