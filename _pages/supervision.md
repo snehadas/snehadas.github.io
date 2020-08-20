@@ -12,7 +12,9 @@ redirect_from:
 PhD projects
 ======
 * Roser Montanana Rosell (2020 --)
+	* Topic: New avenues for studies of ALS-pathophysiology: interneuron contribution to disease development and degeneration
 	* Role: Co-supervisor 
+	* Publications: [Allodi et al. (2020)](https://raghavian.github.io/publication/2020-01-01-Locomotor-deficits-in-ALS-mice-are-paralleled-by-loss-of-V1-interneuron-connections-onto-fast-motor-neurons)
 
 Masters Theses
 ======
