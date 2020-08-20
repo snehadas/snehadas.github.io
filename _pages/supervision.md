@@ -39,7 +39,7 @@ Masters Theses
 Masters Projects
 ======
 * Andy Sode Anker (2020)
-	* Topic: Using CVAEs to Extract Structural Motifs from X-ray Scattering Data
+	* Topic: Using CVAEs to Extract Structural Motifs from X-ray Scattering Data ([Publication](https://raghavian.github.io/publication/2020-07-characterisingAtomicStrucs))
 	* Role: primary supervisor
 * Xuan Zhong (2019) 
 	* Topic: Zero-Shot Relation Extraction using Graph Neural Networks
