@@ -19,6 +19,6 @@ All Publications
 
 Journal Publications
 ---
-{% for post in site.publications reversed %}
+{% for post in site.journals reversed %}
   {% include archive-single.html %}
 {% endfor %}
