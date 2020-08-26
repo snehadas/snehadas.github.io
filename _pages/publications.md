@@ -11,11 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<h2>Preprints</h2>
+Preprints (under review)
+---
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'preprint' %}
       {% include archive-single.html %}
@@ -24,21 +21,24 @@ author_profile: true
 
 
 
-<h2>Journal Articles</h2>
+Journal Articles
+---
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h2>Refereed Conference/Workshop Papers</h2>
+Refereed Conference/Workshop Papers
+---
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'conference' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h2>Theses</h2>
+Theses
+---
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'thesis' %}
       {% include archive-single.html %}
