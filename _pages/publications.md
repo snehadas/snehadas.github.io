@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Preprints (under review)
+Preprints
 ---
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'preprint' %}
