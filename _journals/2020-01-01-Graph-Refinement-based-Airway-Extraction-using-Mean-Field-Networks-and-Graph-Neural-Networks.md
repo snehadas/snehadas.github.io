@@ -1,6 +1,6 @@
 ---
 title: "Graph Refinement based Airway Extraction using Mean-Field Networks and Graph Neural Networks"
-collection: publications
+collection: journals
 permalink: /publication/2020-01-01-Graph-Refinement-based-Airway-Extraction-using-Mean-Field-Networks-and-Graph-Neural-Networks
 date: 2020-01-01
 venue: 'Medical Image Analysis'
