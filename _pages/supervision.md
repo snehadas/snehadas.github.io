@@ -23,7 +23,7 @@ Masters Theses
 	* Role: Primary supervisor
 * Dattijo Murtala Makama (Ongoing)
 	* Visiting student
-	* Topic: Self-superised medical image segmentation
+	* Topic: Self-supervised medical image segmentation
 	* Role: Primary supervisor
 * Anand Bansal (2020)
 	* Topic: Uncertainty quantification in medical image segmentation
