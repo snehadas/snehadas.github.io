@@ -17,17 +17,18 @@ Education
 
 Work experience
 ---
-* Jan 2019 -- Ongoing
-	* Employer: University of Copenhagen, Copenhagen
+* Sep 2020 -- Ongoing
+	* Role: Assistant Professor
+	* Employer: University of Copenhagen
+* Jan 2019 -- Aug. 2020
 	* Role: Post-doc 
-
+	* Employer: University of Copenhagen, Copenhagen
 * Aug 2011 -- July 2013
-	* Employer: BMS Institute of Technology, Bangalore
 	* Role: Lecturer
-
+	* Employer: BMS Institute of Technology, Bangalore
 * Nov 2009 -- July 2011
-	* Employer: MRO-TEK, Bangalore
  	* Role: Networking Engineer
+	* Employer: MRO-TEK, Bangalore
  
 * Freelance writer
 	* Columnist for [The Hindu](https://www.thehindu.com/profile/author/RaghavendraS/), [Frontline](https://frontline.thehindu.com/profile/author/Raghavendra-Selvan/)

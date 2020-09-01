@@ -10,7 +10,7 @@ redirect_from:
 Bio 
 ======
 
-Raghavendra Selvan (Raghav) is currently a Postdoctoral researcher at the Machine Learning Section at the Department of Computer Science and the Data Science Lab of University of Copenhagen. He received his PhD in Medical Image Analysis (University of Copenhagen, 2018), his MSc degree in Communication Engineering in 2015 (Chalmers University, Sweden) and his Bachelor degree in Electronics and Communication Engineering degree in 2009 (BMS Institute of Technology, India). Raghavendra Selvan was born in Bangalore, India.
+Raghavendra Selvan (Raghav) is currently an Assistant Professor at the University of Copenhagen, with joint responsibilities at the Machine Learning Section (Dept. of Computer Science), Kiehn Lab (Department of Neuroscience) and the Data Science Laboratory. He received his PhD in Medical Image Analysis (University of Copenhagen, 2018), his MSc degree in Communication Engineering in 2015 (Chalmers University, Sweden) and his Bachelor degree in Electronics and Communication Engineering degree in 2009 (BMS Institute of Technology, India). Raghavendra Selvan was born in Bangalore, India.
 
 His current research interests are broadly pertaining Bayesian Machine Learning (with a focus on Medical image analysis), Graph-based learning, Tensor networks, Approximate Inference and multi-object tracking theory.
 
