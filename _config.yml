@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raghavendra Selvan"
+title                    : "Sneha Das"
 title_separator          : "-"
-name                     : &name "Raghav"
+name                     : &name "Sneha"
 description              : &description "personal description"
-url                      : https://raghavian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://snehadas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "raghavian/raghavian.github.io"
+repository               : "snehadas/snehadas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Raghav"
+  name             : "Sneha"
   avatar           : "profile.png"
-  bio              : "Assistant Professor @ Machine Learning Section, Kiehn Lab & Data Science Lab, University of Copenhagen"
-  location         : "Bangalore/Copenhagen"
-  employer         : #"University of Copenhagen"
+  bio              : "Doctoral Candidate @ Department of Signal Processing and Acoustics, Aalto University"
+  location         : "Bangalore/Finland"
+  employer         : #"Aalto University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=R9VBQ54AAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "raghav@di.ku.dk"
+  googlescholar    : "https://scholar.google.com/citations?user=eL0_3FUAAAAJ&hl=en"
+  email            : "sneha.das@aalto.fi"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "raghavian"
+  github           : "snehadas"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,13 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "raghavian"
+  twitter          : "dassneh"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  wordpress        : "https://blog.sarvajna.in/"
+  wordpress        : #"https://blog.sarvajna.in/"
 
 # Reading Files
 include:
