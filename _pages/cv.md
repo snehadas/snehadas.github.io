@@ -11,40 +11,32 @@ redirect_from:
 
 Education
 ---
-* PhD in Medical Image Analysis, University of Copenhagen, Denmark (2018)
-* MSc in Electrical Engineering, Chalmers University, Sweden (2015) 
-* Bachelor in Electronics and Communication Engineering, BMS Institute of Technology, India (2009) 
+* MSc in Communication and Multimedia Engineering, Friedrich-Alexander Universität Erlangen-Nürnberg, Germany (2013-2016) 
+* Bachelor in Electronics and Communication Engineering, BMS Institute of Technology, India (2013) 
 
 Work experience
 ---
-* Sep 2020 -- Ongoing
-	* Role: Assistant Professor
-	* Employer: University of Copenhagen
-* Jan 2019 -- Aug. 2020
-	* Role: Post-doc 
-	* Employer: University of Copenhagen, Copenhagen
-* Aug 2011 -- July 2013
-	* Role: Lecturer
-	* Employer: BMS Institute of Technology, Bangalore
-* Nov 2009 -- July 2011
- 	* Role: Networking Engineer
-	* Employer: MRO-TEK, Bangalore
+* October 2016 -- Ongoing
+	* Role: Doctoral Candidate
+	* Employer: Aalto University, Finland
+* May 2015 -- August 2016
+	* Role: Research Assistant
+	* Employer: International Audiolabs, Erlangen, Germany
+* January 2014 -- February 2015
+	* Role: Research Assistant
+	* Employer: Fraunhofer IIS, Germany
  
-* Freelance writer
-	* Columnist for [The Hindu](https://www.thehindu.com/profile/author/RaghavendraS/), [Frontline](https://frontline.thehindu.com/profile/author/Raghavendra-Selvan/)
-	* Nov 2011 - Ongoing
 
 Awards
 ---
-* [Runner-up Best Paper Award](https://2020.midl.io/papers/selvan20.html) at International Conference of Medical Imaging with Deep Learning (2020). [Interview](https://rsipvision.com/ComputerVisionNews-2019August/24/).
-* Swedish Institute Scholarship covering MSc expenses (2013)
-* Limca Book of Records Award: Team Member of India’s smallest satellite project - StudSat (2011)
+* Nokia Foundation PhD Scholarship (2020)
+* Scholarship by the Kansallis-Osake-Pankki foundation for teachers in the field of technology (2018)
 
-Skills
+Other activities
 ---
-* Reviewer at high impact journals and conferences such as IEEE Transactions of Medical Image Analysis, Medical Image Analysis, MICCAI, MIDL, NeurIPS
-* [Blogger](http://blog.sarvajna.in)
-
+* Session chair and program steward, [MyData conference, 2019](https://mydata2019.org/)
+* Secretary & Serving Board member (2019, 2020) of the Aalto University Doctoral Students Association, [Aallonhuiput](https://www.aallonhuiput.fi/)
+* Program team and volunteer for [MyData Conference](https://mydata2018.org/) since 2017.
 Publications
 ---
   <ul>{% for post in site.publications reversed %}
