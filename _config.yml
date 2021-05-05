@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sneha"
   avatar           : "profile.png"
-  bio              : "Doctoral Candidate @ Department of Signal Processing and Acoustics, Aalto University"
-  location         : "Bangalore/Finland"
+  bio              : "Postdoctoral Researcher @ Department of Applied Mathematics and Computer Science, Technical University of Denmark"
+  location         : "Denmark"
   employer         : #"Aalto University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eL0_3FUAAAAJ&hl=en"
-  email            : "sneha.das@aalto.fi"
+  email            : "sned@dtu.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
