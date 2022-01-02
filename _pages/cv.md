@@ -11,12 +11,16 @@ redirect_from:
 
 Education
 ---
+* PhD in Speech Interaction Technology, Aalto University, Finland (2021)
 * MSc in Communication and Multimedia Engineering, Friedrich-Alexander Universität Erlangen-Nürnberg, Germany (2013-2016) 
 * Bachelor in Electronics and Communication Engineering, BMS Institute of Technology, India (2013) 
 
 Work experience
 ---
-* October 2016 -- Ongoing
+* December 2020 -- Ongoing
+	* Role: Postdoctoral researcher
+	* Employer: Technical University of Denmark, Denmark
+* October 2016 -- November 2020
 	* Role: Doctoral Candidate
 	* Employer: Aalto University, Finland
 * May 2015 -- August 2016
