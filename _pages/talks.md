@@ -37,4 +37,4 @@ AMLab, University of Amsterdam ([slides](files/amsterdam.pdf))
 	* "Extraction of airway trees from CT data Using Multiple Hypothesis Tracking and Statistical Ranking of Template-matched Hypotheses", MICCAI workshop on Pulmonary Image Analysis, Athens ([slides](files/pia.pdf))
 
 * 2015
-	* "Bayesian tracking of multiple point targets Using Expectation Maximization", MSc defence, Chalmers University ([slides](files/msc.pdf))
+	* "Source Modelling Based on Higher-Order Statistics for Speech Enhancement Applications", MSc defence, Friedrich-Alexander-Universität Erlangen-Nürnberg  ([slides](files/msc.pdf))
