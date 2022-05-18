@@ -38,9 +38,13 @@ Awards
 
 Other activities
 ---
+* Member of Local Collaboration and Work Environmental Committee (Lokale Arbejdsmiljø-og Samarbejdsdvalg LASU), DTU Compute (2020 – present)
+* Member of the Diversity working group, DTU Compute (2020 – present)
+* Co-organizer of the ISCA SIG on Security and Privacy in Speech Communication (SPSC) monthly journal club.
 * Session chair and program steward, [MyData conference, 2019](https://mydata2019.org/)
 * Secretary & Serving Board member (2019, 2020) of the Aalto University Doctoral Students Association, [Aallonhuiput](https://www.aallonhuiput.fi/)
-* Program team and volunteer for [MyData Conference](https://mydata2018.org/) since 2017.
+* Program team and volunteer for [MyData Conference](https://mydata2018.org/) (2017, 2018)
+
 
   
 
