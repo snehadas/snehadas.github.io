@@ -9,12 +9,12 @@ redirect_from:
 ---
 Bio 
 ======
-TBA
+I am a postdoctoral researcher at Technical University of Denmark, in the statistics and data analysis section, Department of Applied Mathematics and Computer Science
 
 
-Research Interests
+Research Projects and Interests
 ======
-TBA
+Speech :-)
 
 
 
