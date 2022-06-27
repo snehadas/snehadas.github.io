@@ -45,6 +45,5 @@ Other activities
 * Secretary & Serving Board member (2019, 2020) of the Aalto University Doctoral Students Association, [Aallonhuiput](https://www.aallonhuiput.fi/)
 * Program team and volunteer for [MyData Conference](https://mydata2018.org/) (2017, 2018)
 
-
-  
+**CV**: [Download](https://github.com/snehadas/snehadas.github.io/blob/master/images/cv.pdf)
 
