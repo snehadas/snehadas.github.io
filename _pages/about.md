@@ -9,7 +9,9 @@ redirect_from:
 ---
 Bio 
 ======
-I am a postdoctoral researcher at Technical University of Denmark, in the statistics and data analysis section, Department of Applied Mathematics and Computer Science
+I am an Assistant Professor in the Statistics and Data Analysis Section at the Technical University of Denmark and a speech researcher working on multi-sensory data modeling. 
+
+I primarily identify as a speech-scientist, and am usually fascinated by all things signals. 
 
 
 Research Projects and Interests
