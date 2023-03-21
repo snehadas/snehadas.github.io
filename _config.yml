@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sneha Das"
   avatar           : "profile2.jpg"
-  bio              : "Assistant Professor @ Department of Applied Mathematics and Computer Science, Technical University of Denmark"
+  bio              : "Assistant Professor @ Department of Applied Mathematics and Computer Science (Statistics and Data Analysis)"
   location         : "Denmark"
-  employer         : #"Aalto University"
+  employer         : #"Technical University of Denmark"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eL0_3FUAAAAJ&hl=en"
   email            : "sned@dtu.dk"
