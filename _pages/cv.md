@@ -18,7 +18,7 @@ Education
 Work experience
 ---
 * December 2022 -- Present
-	* Role: Postdoctoral researcher
+	* Role: Assistant Professor (Tenure-track)
 	* Employer: Technical University of Denmark, Denmark
 * December 2020 -- November 2022
 	* Role: Postdoctoral researcher
