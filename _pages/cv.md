@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+1-page CV. _last updated Sep. 2023._ ([download](files/CV_1pager_sneha.pdf))
 {% include base_path %}
 
 Education
@@ -17,7 +17,10 @@ Education
 
 Work experience
 ---
-* December 2020 -- Ongoing
+* December 2022 -- Present
+	* Role: Postdoctoral researcher
+	* Employer: Technical University of Denmark, Denmark
+* December 2020 -- November 2022
 	* Role: Postdoctoral researcher
 	* Employer: Technical University of Denmark, Denmark
 * October 2016 -- November 2020
