@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Brief CV. _last updated Sep. 2023._ ([download](files/CV_1pager_sneha.pdf))
+
+
+
 Education
 ---
 * PhD in Speech Interaction Technology, Aalto University, Finland (2021)
