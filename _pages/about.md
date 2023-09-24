@@ -15,7 +15,7 @@ Hi! I am a tenure-track assistant professor with the section for Statistics and 
 I work on multi-sensory data modelling, that includes speech and audio, biosignals and visual data modalities. My research incorporates shared perspective from statistics, machine-learning, deep-learning and (social) signal processing, with an emphasis on resource constrained setting. I am is also interested in questions on ‘AI-alignment’ from legal perspectives, human-rights perpectives, in addition to technical dimensions. Therefore, I am currently reasearching and developing tools for AI evaluation and risk- and impact-assessment for high-risk use-cases with compliance and conformity as the goal. My current application focus is healthcare, specifically developing technologies for the management of mental-disorders for children and adolescents. Equity, accessibility, inclusivity are recurrent themes in my research, providing the foundational grounding and direction to my research. Given the ubiquity and the influence of technology in our lives, I strongly believe the need for interdisciplinary teams for their development and advancement.
 
 <br>
-<center><img src="/images/about_me.png" style="width:60%; border-radius: 8px"></center>
+<center><img src="/images/about_me.png" style="width:95%; border-radius: 8px"></center>
 <br>
 
 
