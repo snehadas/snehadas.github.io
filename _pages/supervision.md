@@ -32,7 +32,8 @@ Masters projects (Co-supervisor)
 ======
 * Anna Leschanowsky (2020), *Perception of Privacy Measured in the Crowd–Paired Comparison on the Effect of Back-ground Noises* ([publication](https://research.aalto.fi/en/publications/perception-of-privacy-measured-in-the-crowdpaired-comparison-on-t))
 
-**Bachelor Thesis (Co-supervisor)**
+Bachelor Theses (Co-supervisor)
+======
 * Smilla Due (Ongoing), *Evaluation of Large Language Models*
 
 Bachelor projects (Co-supervisor)
