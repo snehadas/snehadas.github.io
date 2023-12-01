@@ -14,6 +14,8 @@ Hi! I am a tenure-track assistant professor with the section for Statistics and 
 
 I work on multi-sensory data modelling, that includes speech and audio, biosignals and visual data modalities. That said, given my discipline and years of research, working with speech signals and developing robust speech technology holds a special interest. My research incorporates shared perspective from statistics, machine-learning, deep-learning and (social) signal processing, with an emphasis on resource constrained setting. I am also interested in questions on ‘AI-alignment’ from legal and human-rights perpectives, besides the ethical and technical aspects. In collaboration with interdisciplinary experts, I am currently reasearching and developing tools for AI evaluation and impact-assessment within high-risk use-cases of AI with compliance and conformity as end goals. Equity, accessibility, inclusivity are recurrent themes in my research, providing the foundational grounding and direction to my research. Given the ubiquity and the influence of technology in our lives, I strongly believe in the need for interdisciplinary teams for development and advancement of technologies. Although my interests and research topics keep evolving, I have tried to summarize them in the figure below. 
 
+If you are interested in these research areas, would like to know more or would like to point me towards your cool research in the domain, feel free to drop a message. I am constantly on a lookout for motivated students and fellow researchers working on similar and complimentary areas.
+
 <br>
 <center><img src="/images/about_me.png" style="width:95%; border-radius: 8px"></center>
 <br>
