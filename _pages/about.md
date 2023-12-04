@@ -10,7 +10,7 @@ redirect_from:
 BIO
 ======
 
-Hello! I'm Sneha. Welcome to my webpage. 
+Hello! I'm Sneha. Welcome to my space. 
 
 I am a tenure-track assistant professor with the section for Statistics and Data Analysis at the Department of Applied Mathematics and Computer Science (Compute), Technical University of Denmark (DTU). I received my PhD from Aalto University, Finland in 2021 within Speech and Language Technology. Prior to this, I did my MSc in Communication and Multimedia Engineering from Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany in 2016 and my Bachelors in Electronics and Communication Engineering in 2013 (BMS Institute of Technology, India). I was born in Kolkata (Eastern India), and lived most of my life in Bangalore (Southern India).
 
