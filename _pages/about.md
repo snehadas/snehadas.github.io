@@ -19,7 +19,7 @@ I work on multi-sensory data modelling, that includes speech and audio, biosigna
 NB: If you are interested in these research areas, would like to know more or would like to point me towards your cool research in the domain, feel free to drop a message. I am constantly on a lookout for motivated students and fellow researchers working on similar and complimentary areas.
 
 <br>
-<center><img src="/images/about_me.png" style="width:95%; border-radius: 8px"></center>
+<center><img src="/images/about_me_09_04.png" style="width:95%; border-radius: 8px"></center>
 <br>
 
 
