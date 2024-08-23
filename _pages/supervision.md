@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Supervision"
+title: "Supervision (Supervisor & Co-supervisor)"
 permalink: /supervision/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Masters Theses (Supervisor & Co-supervisor)
+Masters Theses
 ======
 * Maria Katarachia (2024), *On summarization for non-structured data with applications to teaching-learning and social surveys*
 * Kristoffer Nielsen (2024), *Automated Behavioral Coding in Child and Adolescent Psychiatry using Artificial Intelligence*
