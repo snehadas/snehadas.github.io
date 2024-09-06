@@ -6,7 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Invited panels and expert groups
+---
+* "AI-regulation and data-protection: Perspectives from the world" at the ISCA SPSC Symposium, 19.08.23
+* International symposium on "Generative AI and the EU AI Act". ([Recommendation article](files/Speinshart_EUAICt.pdf))
+* "EU Artificial Intelligence Act-landmark or stumbling block for researchers and innovators?" EuroTech Alliance, 25.05.23, ([link to video](https://eurotech-universities.eu/news-and-events/ai-act-by-eurotech-universities/))
 
+
+Select Talks
+---
 {% include base_path %}
 * 2022
 	* "Speech and Multi-Sensory Data Modeling for Child and Youth Psychiatry", Danish Data Science 2022 ([Poster](_files/poster_I.pdf))
@@ -14,7 +22,9 @@ redirect_from:
 
 
 * 2021
+
   * "Robust and Efficient Methods for Distributed Speech Processing-Perspectives on Coding, Enhancement and Privacy", PhD Defence, Aalto University, Finland ([slides](files/phd.pdf))
+  * "Towards an interpretable and transferable acoustic emotion recognition for the detection of mental disorders", Where the Earth meets the Sky workshop (Online)
 
 * 2020
   * "Fundamental Frequency Model for Postfiltering at Low Bitrates in a Transform-Domain Speech and Audio Codec", Interspeech 2020 (Online)
