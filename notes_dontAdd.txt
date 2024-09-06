@@ -1,0 +1,3 @@
+Link to Jekyll format: https://mmistakes.github.io/minimal-mistakes/docs/posts/
+
+https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-II/

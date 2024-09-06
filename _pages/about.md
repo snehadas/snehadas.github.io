@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-BIO
+About me
 ======
 
-Hello! I'm Sneha. Welcome to my space.
+Hello! Thank you for visiting my page.
 
 I am a tenure-track assistant professor with the section for Statistics and Data Analysis at the Department of Applied Mathematics and Computer Science ([Compute](https://www.compute.dtu.dk/)), Technical University of Denmark ([DTU](https://www.dtu.dk/)). I received my PhD from [Aalto University](https://www.aalto.fi/en), Finland in 2021 within Speech and Language Technology under the guidance of [Tom Bäckström](https://www.aalto.fi/en/people/tom-backstrom). Prior to this, I did my MSc in Communication and Multimedia Engineering from Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany in 2016 and my Bachelors in Electronics and Communication Engineering in 2013 (BMS Institute of Technology, India). I was born in Kolkata (Eastern India), and lived most of my life in Bangalore (Southern India).
 
