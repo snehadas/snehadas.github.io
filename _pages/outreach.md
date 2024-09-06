@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Outreach"
-permalink: /talks/
+permalink: /outreach/
 author_profile: true
 redirect_from:
   - /resume
