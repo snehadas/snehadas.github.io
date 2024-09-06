@@ -4,20 +4,20 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "Supervision"
     url: /supervision/
-        
+
     #  - title: "Blog Posts"
     #url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Outreach"
+    url: /talks/
 
-   
+
     #  - title: "Guide"
     #url: /markdown/
