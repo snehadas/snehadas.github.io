@@ -19,3 +19,7 @@ NB: If you are interested in these research areas, would like to know more or wo
 <center><img src="/images/about_me_09_04.png" style="width:95%; border-radius: 8px"></center>
 <br>
 -->
+
+News
+======
+* 2024-08: [Paper](https://arxiv.org/abs/2408.15391) presented at the SPSC symposium 2024 and has won the best paper award!
