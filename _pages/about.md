@@ -16,7 +16,7 @@ I work on multi-sensory data modelling, that includes speech and audio, biosigna
 NB: If you are interested in these research areas, would like to know more or would like to point me towards your cool research in the domain, feel free to drop a message. I am constantly on a lookout for motivated students and fellow researchers working on similar and complimentary areas.
 
 
-News
+Updates
 ======
 * 2024-08: [Paper](https://arxiv.org/abs/2408.15391) presented at the SPSC symposium 2024 and has won the best paper award!
 * 2024-08: EU Horizon 2020 MSCA-DN on *AI-alignment* as a PI and work package leader (€ 600K)
