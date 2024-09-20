@@ -17,10 +17,12 @@ Talks and Posters (Select)
 
 * 2023
   * "My (Data) Journey in Academia", Keynote at the DDSA mentoring programme, Copenhangen ([Slides](files/presentation_DDSA_mentoring.pdf))
-  * "Few-shot Learning for Speech Processing and Automatic Transcriptions of Clinical-child Conversation in Danish - Speech processing for clinical conversations", ESCAP (European Society for Child and Adolescent Psychiatry), Copenhagen ([Slides](files/presentation_escap2023.pdf))
+  * "Feasibility of Few-shot Learning for the Automatic Transcriptions of Clinical-child Conversation in Danish", Wrist Angel Symposium, Copenhagen ([Slides](files/WA_symposium_sneha_V4.pdf))
+  * "Few-shot Learning for Speech Processing and Automatic Transcriptions of Clinical-child Conversation in Danish: Speech processing for clinical conversations", ESCAP (European Society for Child and Adolescent Psychiatry), Copenhagen ([Slides](files/presentation_escap2023.pdf))
   * "On Crowdsourcing-Design with Comparison Category Rating for Evaluating Speech Enhancement algorithms", ICASSP 2023, Rhodes, Greece ([Poster](files/icassp2023_poster.pdf))
   * "Wrist Angel: Using wearables to predict OCD-events", Open course of BCI and computational neuroscience at BMSIT (Online) ([Slides](files/presentation_BMSIT_16_06_v0.pdf))
   * "Low-resource Data Modelling for Speech and Audio: Perspectives from Statistics and Machine Learning", DSTS (Dansk Statistisk Selskab) Todagesmøde forår 2023, Aalborg ([Slides](files/DSTS_May23_Sneha.pdf))
+  * "Influence of Loss Functions on the Latent Representation of Speech Emotions", ISCA-SPSC SIG webinar series (online) ([Slides](files/ISCA_SIG_Webinar.pdf))
   * "To remember or Not to Remember? Continual Learning from Adult to Children for Low-resource Automatic Speech Recognition", Nordic young researchers symposium 2023, Copenhagen ([Poster](files/poster_maria_v1.pdf))
   * "Audio‐visual Data Fusion for Behavioral Coding", Nordic young researchers symposium 2023, Copenhagen ([Poster](files/NordicAIMeet2023_poster_fdal_A1_portrait.pdf))
 
