@@ -24,7 +24,7 @@ Work experience
 	* Role: Postdoctoral researcher
 	* Employer: Technical University of Denmark, Denmark
 * Dec. 2020 -- Mar. 2021
-	* Role: Postdoctoral researcher
+	* Role: Research assistant
 	* Employer: Technical University of Denmark, Denmark
 * October 2016 -- November 2020
 	* Role: Doctoral Candidate
