@@ -13,17 +13,18 @@ Invited panels and expert groups
 * "EU Artificial Intelligence Act-landmark or stumbling block for researchers and innovators?" EuroTech Alliance, 25.05.23, ([link to video](https://eurotech-universities.eu/news-and-events/ai-act-by-eurotech-universities/))
 
 
-Select Talks
+Talks and Poster (Select)
 ---
 {% include base_path %}
 * 2022
-	* "Speech and Multi-Sensory Data Modeling for Child and Youth Psychiatry", Danish Data Science 2022 ([Poster](_files/poster_I.pdf))
+	* "Speech and Multi-Sensory Data Modeling for Child and Youth Psychiatry", Danish Data Science 2022 ([Poster](files/poster_D3A_2022.pdf))
 	* "Zero-shot Cross-lingual Speech Emotion Recognition: A Study of Loss Functions and Feature Importance", [2nd ISCA Symposium on Security and Privacy in Speech Communication](https://spsc-symposium2022.mobileds.de/#home) ([slides](files/SPSC_symposium_sneha_v2.pdf))
 
 
 * 2021
 
   * "Robust and Efficient Methods for Distributed Speech Processing-Perspectives on Coding, Enhancement and Privacy", PhD Defence, Aalto University, Finland ([slides](files/phd.pdf))
+  * "On Interpretability and Transferability in Speech Emotion Recognition", ICML Women in ML Un-Workshop 2021 (Online) ([Poster](files/WiML_poster.png))
   * "Towards an interpretable and transferable acoustic emotion recognition for the detection of mental disorders", Where the Earth meets the Sky workshop (Online)
 
 * 2020
