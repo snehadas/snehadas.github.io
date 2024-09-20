@@ -13,12 +13,14 @@ Invited panels and expert groups
 * "EU Artificial Intelligence Act-landmark or stumbling block for researchers and innovators?" EuroTech Alliance, 25.05.23, ([link to video](https://eurotech-universities.eu/news-and-events/ai-act-by-eurotech-universities/))
 
 
-Talks and Poster (Select)
+Talks and Posters (Select)
 ---
 {% include base_path %}
 * 2022
 	* "Speech and Multi-Sensory Data Modeling for Child and Youth Psychiatry", Danish Data Science 2022 ([Poster](files/poster_D3A_2022.pdf))
-	* "Zero-shot Cross-lingual Speech Emotion Recognition: A Study of Loss Functions and Feature Importance", [2nd ISCA Symposium on Security and Privacy in Speech Communication](https://spsc-symposium2022.mobileds.de/#home) ([slides](files/SPSC_symposium_sneha_v2.pdf))
+	* "Zero-shot Cross-lingual Speech Emotion Recognition: A Study of Loss Functions and Feature Importance", [2nd ISCA Symposium on Security and Privacy in Speech Communication](https://spsc-symposium2022.mobileds.de/#home) ([slides](files/SPSC_symposium_sneha_v2.pdf)) ([Video](files/video_sneha_SPSC_symp_2022.mp4))
+  * "Multimodal Data Analysis for OCD Treatment and Management", SmartPsycology Summer school, Lake Como School of Advanced Studies, Italy ([Slides](SmartPsychology.pdf))
+  * "Continuous Metric Learning For Transferable Speech Emotion Recognition and Embedding Across Low-resource Languages", Northern Lights Deep Learning Conference 2022 (Online) ([Poster](NLDL_poster_das_etal.pdf))
 
 
 * 2021
