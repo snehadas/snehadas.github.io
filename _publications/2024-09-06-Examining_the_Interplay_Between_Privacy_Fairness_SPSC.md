@@ -1,6 +1,6 @@
 ---
 title: "Examining the Interplay Between Privacy and Fairness for Speech Processing: A Review and Perspective"
-authbefore: "Anna Leschanowsky, Sneha Das"
+authbefore: "Anna Leschanowsky,"
 authafter: ""
 collection: publications
 permalink: /publication/2024-09-06-Examining_the_Interplay_Between_Privacy_Fairness_SPSC
