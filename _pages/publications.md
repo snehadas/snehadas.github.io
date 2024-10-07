@@ -20,12 +20,33 @@ Refereed Conference/Workshop Papers
 {% endfor %}
 </ol>
 
+Journal Articles
+---
+<ol>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'journal' %}
+     <li> {% include archive-single.html %} </li>
+  {% endif %}
+{% endfor %}
+</ol>
+
+
 Preprints / Under Review
 ---
 <ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'preprint' %}
       <li> {% include archive-single.html %} </li>
+  {% endif %}
+{% endfor %}
+</ol>
+
+Monographs
+---
+<ol>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'thesis' %}
+   <li>   {% include archive-single.html %} </li>
   {% endif %}
 {% endfor %}
 </ol>
