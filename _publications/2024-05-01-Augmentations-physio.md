@@ -1,7 +1,7 @@
 ---
 title: "Data augmentations and transfer learning for physiological time series"
 authbefore: "Harald Vilhelm Skat-Rørdam, Mia Hang Knudsen, Simon Nørby Knudsen, "
-authafter: "Line H Clemmensen "
+authafter: ", Line H Clemmensen "
 collection: publications
 permalink: /publication/2024-05-01-Augmentations-physio
 date: 2024-05-01
