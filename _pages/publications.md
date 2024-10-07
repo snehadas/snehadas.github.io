@@ -31,7 +31,7 @@ Journal Articles
 </ol>
 
 
-Preprints / Under Review
+Preprints/Under Review
 ---
 <ol>
 {% for post in site.publications reversed %}
