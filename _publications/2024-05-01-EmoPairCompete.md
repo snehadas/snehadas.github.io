@@ -1,6 +1,6 @@
 ---
 title: "EmoPairCompete -- Physiological Signals Dataset for Emotion and Frustration Assessment under Team and Competitive Behavior"
-authbefore: ", "
+authbefore: ""
 authafter: "Nicklas Leander Lund, Carlos Ramos González, Nicole Nadine Lønfeldt, Line Clemmensen"
 collection: publications
 permalink: /publication/2024-05-01-EmoPairCompete
