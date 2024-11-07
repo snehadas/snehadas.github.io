@@ -19,8 +19,11 @@ I work on multi-sensory data modelling, that includes speech and audio, biosigna
 <!--
 I am also interested in questions on ‘AI-alignment’ at the intersection of technical and non-technical perspectives. Equity, accessibility are inclusivity are recurrent themes in my research, alongside AI-safety and reliability, providing the foundational grounding and direction to my research.
 -->
+
 Given the ubiquity and the influence of technology in our lives, I strongly believe in the need for interdisciplinary teams for development and advancement of technologies.
+
 NOTE: If you are interested in these research areas, would like to know more or would like to point me towards your cool research in the domain, feel free to drop a message. I am constantly on a lookout for motivated students and fellow researchers working on similar and complimentary areas.
+
 NOTE for potential students: I constantly mentor students on [research and development projects](https://snehadas.github.io/supervision/). Feel free to reach out if you are interested in any of the above research topics.
 
 
