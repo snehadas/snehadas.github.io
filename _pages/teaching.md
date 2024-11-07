@@ -20,7 +20,9 @@ of assignments and exams.-->
 
 Bachelor courses
 ======
-* *Course-responsible* on Statistical Evaluation for Artificial Intelligence and Data (Fall 2023 and spring 2024)
+* *Course-responsible* on Statistical Evaluation for Artificial Intelligence and Data (Spring 2025)
+* *Course-responsible* on Statistical Evaluation for Artificial Intelligence and Data (Spring 2024)
+* *Course-responsible* on Statistical Evaluation for Artificial Intelligence and Data (Fall 2023)
 
 PhD courses
 ======
