@@ -16,7 +16,7 @@ Masters Theses
 * Kirstine Cort Graae (Ongoing), *Exploration of synchrony in bio-signals*
 * Kathrine Sofie Rasmussen (Ongoing), *Foundational Models for predicting OCD events in children*
 * Ilias Tsikontouris (Ongoing), *Emotion Recognition using Machine Learning and Image resources Analysis*
-* Eleftherios Katiforis (Ongoin), *Logical Fallacy detection using LLMs*
+* Eleftherios Katiforis (Ongoing), *Logical Fallacy detection using LLMs*
 * Maria Katarachia (2024), *On summarization for non-structured data with applications to teaching-learning and social surveys*
 * Kristoffer Nielsen (2024), *Automated Behavioral Coding in Child and Adolescent Psychiatry using Artificial Intelligence*
 * Maja Jønck Hjuler (2024), *Speech emotion recognition for low-resource languages*
@@ -49,7 +49,7 @@ Course projects
 * Andro Kranjcevic (Ongoing), MSc project, *A Survey on Sentiment Analysis using Natural Language Processing (NLP) Techniques: Methods, Applications, and Comparative Insights*
 * Ting-Hui Cheng (Ongoing), MSc project, *Benchmark for bias and fairness in atypical speech and voice*
 * Zhijin Lyu & Yutong Jin (Ongoing), Research project, *Robustness in deeplearning models*
-* Zhijin Lyu (Ongoing), MSc project, *Multimodal Deepfake Detection*
-* Angelos Michelis (Ongoing), MSc project, *AI tools and implementation*
+* Zhijin Lyu (2024), MSc project, *Multimodal Deepfake Detection*
+* Angelos Michelis (2024), MSc project, *AI tools and implementation*
 * Anna Leschanowsky (2020), MSc project, *Perception of Privacy Measured in the Crowd–Paired Comparison on the Effect of Back-ground Noises* ([publication](https://research.aalto.fi/en/publications/perception-of-privacy-measured-in-the-crowdpaired-comparison-on-t))
 * Rosa Louise Elinor Marker (2021), BSc project, *Wearable to assist children with OCD*
