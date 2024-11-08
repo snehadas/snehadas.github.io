@@ -10,6 +10,8 @@ author_profile: true
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+NOTE: Work in progress; Check out my most updated list of works on [Scholar](https://scholar.google.com/citations?user=eL0_3FUAAAAJ)
+
 Refereed Conference/Workshop Papers
 ---
 <ol>
