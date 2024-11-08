@@ -27,11 +27,11 @@ Masters Theses
 * Usama Ahmad Mir (2023), *Facial recognition for kinship detection using deep neural networks*
 * Sebastian Nicolai Fabricius Grut (2023), *Kinship detection of individuals with video data*
 * Zihao Fu (2023), *Chinese family relationship recognition via video and audio modalities*
-* Maria Garofalaki (2022), *Speech and natural language processing for clinical in-the-wild data*
 * Laurits Fromberg (2023), *Analysis of Children with Obsessive-Compulsive-Disorder using Machine Learning*
 * Carlos Ramos Gonzalez (2023), *Biosignal synchrony analysis in collaboration activities*
 * Maria-Madalina Jarca (2023), *Intelligent computer vision systems applied in psychiatry*
 * Vincent Parluhutan Ryan (2023), *Intelligent computer vision systems applied in psychiatry*
+* Maria Garofalaki (2022), *Speech and natural language processing for clinical in-the-wild data*
 * Angélica Stephania Zambrano Suárez (2022), *Automating Crowdsourcing Experiments for Speech Quality to Provide Relevant Insights of Results and Optimize Algorithms for Human Perception* ([publication](https://ieeexplore.ieee.org/abstract/document/10096447))
 * Steinn Orri Erlendsson (2022), *Deep Learning Methods in Speech Emotion Recognition for Danish language*
 * Nicklas Leander Lund (2021), *Analysis of Obsessive Compulsive Disorder in Children using Deep Learning*
