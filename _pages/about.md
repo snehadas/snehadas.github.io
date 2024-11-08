@@ -15,7 +15,7 @@ My main research directions are:
 * **AI-safety**: How to ensure the robustness and reliability (among other safety metrics) of models in high-stakes applications? How can we formalize participatory frameworks for HITL systems? How can we integrate non-zero-sum representation for conflicting values in AI systems.
 * **Low-resource ML**: In my ideal world, a system that works for one should work for all. How to ensure that models work with high-fidelity under resource (data, compute) constraints?
 
-I work with multi-sensory data, that includes speech and audio, biosignals and visual data modalities, with applications in (mental) healthcare. That said, after years of working with speech signals, it is still one of my favorite signal modalities. My research incorporates shared perspective from signal processing, statistics, machine-learning. Equity, accessibility are inclusivity are (usually) the undertones in my research.
+I work with multi-sensory data, that includes speech and audio, biosignals and visual data modalities, with applications in (mental) healthcare. That said, after years of working with speech signals, it is still one of my favorite signal modalities :-) My research incorporates shared perspective from signal processing, statistics, machine-learning. Equity, accessibility are inclusivity are (usually) the undertones in my research.
 <!--
 I am also interested in questions on ‘AI-alignment’ at the intersection of technical and non-technical perspectives., alongside AI-safety and reliability, providing the foundational grounding and direction to my research.
 -->
