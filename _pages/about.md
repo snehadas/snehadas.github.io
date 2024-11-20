@@ -17,7 +17,7 @@ My research is on the following broad themes:
 
 I work with multi-sensory data, that includes speech and audio, biosignals and visual data modalities, with applications in (mental) healthcare. That said, after years of working with speech signals, it is still one of my favorite signal modalities :-) My research incorporates shared perspective from signal processing, statistics, machine-learning. Equity, accessibility are inclusivity are (usually) the undertones in my research.
 
-This is <span style="color: red;">red text</span> and <span style="color: blue;">blue text</span>.
+<span style="color: red;">We are hiring!!!</span>
 
 <!--
 I am also interested in questions on ‘AI-alignment’ at the intersection of technical and non-technical perspectives., alongside AI-safety and reliability, providing the foundational grounding and direction to my research.
