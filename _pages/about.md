@@ -17,7 +17,7 @@ My research is on the following broad themes:
 
 I work with multi-sensory data, that includes speech and audio, biosignals and visual data modalities, with applications in (mental) healthcare. That said, after years of working with speech signals, it is still one of my favorite signal modalities :-) My research incorporates shared perspective from signal processing, statistics, machine-learning. Equity, accessibility are inclusivity are (usually) the undertones in my research.
 
-<span style="color: blue;">**We are hiring [PhD Position](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/4334) at DTU Compute!!!** More PhD positions here on the [AlignAI website](https://alignai.eu/recruitment/). Please apply through the official link listed in the job descriptions.</span>
+<span style="color: blue;">**We are hiring [PhD Position 1](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/4334), [PhD Position 2](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/4398) at DTU Compute!!!** More PhD positions from the consortium: [AlignAI website](https://alignai.eu/recruitment/). Please apply through the official links listed in the job descriptions.</span>
 
 <!--
 I am also interested in questions on ‘AI-alignment’ at the intersection of technical and non-technical perspectives., alongside AI-safety and reliability, providing the foundational grounding and direction to my research.
