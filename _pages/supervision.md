@@ -12,11 +12,11 @@ redirect_from:
 
 Masters Theses
 ======
-* Anders Rolighed Larsen (Ongoing), *Synchronizing Audio and Textual Modalities: A Framework for Sentiment Detection through Temporal and Syntactic Alignment for AI Coaching*
-* Kirstine Cort Graae (Ongoing), *Exploration of synchrony in bio-signals*
-* Kathrine Sofie Rasmussen (Ongoing), *Foundational Models for predicting OCD events in children*
-* Ilias Tsikontouris (Ongoing), *Emotion Recognition using Machine Learning and Image resources Analysis*
-* Eleftherios Katiforis (Ongoing), *Logical Fallacy detection using LLMs*
+* Anders Rolighed Larsen (2025), *Synchronizing Audio and Textual Modalities: A Framework for Sentiment Detection through Temporal and Syntactic Alignment for AI Coaching*
+* Kirstine Cort Graae (2025), *Exploration of synchrony in bio-signals*
+* Kathrine Sofie Rasmussen (2025), *Foundational Models for predicting OCD events in children*
+* Ilias Tsikontouris (2025), *Emotion Recognition using Machine Learning and Image resources Analysis*
+* Eleftherios Katiforis (2025), *Logical Fallacy detection using LLMs*
 * Maria Katarachia (2024), *On summarization for non-structured data with applications to teaching-learning and social surveys*
 * Kristoffer Nielsen (2024), *Automated Behavioral Coding in Child and Adolescent Psychiatry using Artificial Intelligence*
 * Maja Jønck Hjuler (2024), *Speech emotion recognition for low-resource languages*
