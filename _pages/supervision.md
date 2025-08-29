@@ -12,6 +12,9 @@ redirect_from:
 
 Masters Theses
 ======
+* Jakub Jedraszka (2025), *Voice biomarkers for predicting cognitive impairment in hearing-and non-hearing-impaired subjects*
+* Ting-Hui Cheng (2025), *Mitigating bias for non-native speakers in automatic speech recognition*
+* Mark Hageman Welin (2025), *Automated Transcription Analysis: Comparing Speech-to-Text Models with Real-World Audio Data*
 * Anders Rolighed Larsen (2025), *Synchronizing Audio and Textual Modalities: A Framework for Sentiment Detection through Temporal and Syntactic Alignment for AI Coaching*
 * Kirstine Cort Graae (2025), *Exploration of synchrony in bio-signals*
 * Kathrine Sofie Rasmussen (2025), *Foundational Models for predicting OCD events in children*
@@ -38,16 +41,18 @@ Masters Theses
 
 Bachelor Theses
 ======
-* Abrahim Deiaa El Din Abbas (Ongoing), *Implementing distributed information retrieval relevancy score service using machine learning and artificial intelligence*
+* Lucia Han Lu, Ditte Bjerrum Gilsfeldt (2025), *Federated learning for tackling data heterogeneity in healthcare applications*
+* Christian Houlberg Rand, Bertram Nicolai Hage (2025), *Cross-Silo Federated Learning: Advancing Robustness and Scalability for Practical Applications*
+* Abrahim Deiaa El Din Abbas (2024), *Implementing distributed information retrieval relevancy score service using machine learning and artificial intelligence*
 * Adrian Lopez Pirvu (2024), *Computer Vision, Speech Technology, Biosensors, and NLP for Child and Adolescent Mental Health*
 * Akira-Miranda Adeyomi Adeniran-Lowe, Natalia Karina Kasinska, Glebs Vinarskis (2024), *On Anti-deepfake Methods for Audio, Speech and Multimodal Technology*
 * Smilla Due (2024), *Evaluation of Large Language Models* ([pre-print](https://arxiv.org/abs/2406.10133))
 
 Course projects
 ======
-* Andro Kranjcevic (Ongoing), MSc project, *A Survey on Sentiment Analysis using Natural Language Processing (NLP) Techniques: Methods, Applications, and Comparative Insights*
-* Ting-Hui Cheng (Ongoing), MSc project, *Benchmark for bias and fairness in atypical speech and voice*
-* Zhijin Lyu & Yutong Jin (Ongoing), Research project, *Robustness in deeplearning models*
+* Andro Kranjcevic (2025), MSc project, *A Survey on Sentiment Analysis using Natural Language Processing (NLP) Techniques: Methods, Applications, and Comparative Insights*
+* Ting-Hui Cheng (2025), MSc project, *Benchmark for bias and fairness in atypical speech and voice*
+* Zhijin Lyu & Yutong Jin (2024), Research project, *Robustness in deeplearning models*
 * Zhijin Lyu (2024), MSc project, *Multimodal Deepfake Detection*
 * Angelos Michelis (2024), MSc project, *AI tools and implementation*
 * Anna Leschanowsky (2020), MSc project, *Perception of Privacy Measured in the Crowd–Paired Comparison on the Effect of Back-ground Noises* ([publication](https://research.aalto.fi/en/publications/perception-of-privacy-measured-in-the-crowdpaired-comparison-on-t))
