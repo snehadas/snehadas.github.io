@@ -10,6 +10,12 @@ redirect_from:
 Talks and Posters (Select)
 ---
 {% include base_path %}
+* 2025
+  * <em> From code to conscience: How MLOps drives trustworthy AI </em>, [Digital Tech summit 2025](https://event.ing.dk/dts5/session/3294275/from-code-to-conscience-how-mlops-drives-trustworthy-ai), Copenhagen, Denmark.
+
+
+
+
 * 2024
   * 'EmoPairCompete - Physiological Signals Dataset for Emotion and Frustration Assessment Under Team and Competitive Behaviours', ICLR 2024 workshop on Time-series for health, Vienna ([Slides](files/TS4H_2024_slides_v2.pdf))
   * 'Data augmentations and transfer learning for physiological time series', ICLR 2024 workshop on Time-series for health, Vienna ([Poster](files/ICLR_data_augmentation_students_poster.pdf))
