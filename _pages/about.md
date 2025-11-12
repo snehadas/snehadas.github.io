@@ -28,14 +28,15 @@ Given the ubiquity and the influence of technology in our lives, I strongly beli
 
 NOTE: If you are interested in these research areas, would like to know more or would like to point me towards your cool research in the domain, feel free to drop a message. I am constantly on a lookout for motivated students and fellow researchers working on similar and complimentary areas.
 
-NOTE for potential students: I constantly mentor students on [research and development projects](https://snehadas.github.io/supervision/). Feel free to reach out if you are interested in any of the above research topics.
+NOTE for potential students: I constantly mentor students on [research and development projects](https://snehadas.github.io/supervision/). Feel free to reach out if you are interested in any of the above topics or want to propose one on similar themes.  
 
 
 Updates
 ======
+* 2025-10: We receive a Villum Synergy grant to work on **[Catalysis Informatics](https://villumfonden.dk/en/nyhed/researchers-break-new-ground-predicting-climates-critical-shifts)!** with [Alexander Bagger](http://dtu.dk/english/person/alexander-bagger?id=64317&cpid=349351&entity=profile) and [Line Clemmensen](https://www.linkedin.com/in/lineclemmensen/?originalSubdomain=dk). **[We are hiring:](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/da/sites/CX_2001/job/6215/)**
 * 2024-12: Received the digital infrastructure grant from [Carlsberg Foundation](https://www.carlsbergfondet.dk/en/) for our project **[FairVoice: Benchmark for Equitable Voice AI](https://www.carlsbergfondet.dk/en/what-we-have-funded/cf24-2181/)!** with [Line Clemmensen](https://www.linkedin.com/in/lineclemmensen/?originalSubdomain=dk)
 * 2024-12: Received the [Innovation Fund Denmark](https://innovationsfonden.dk/en/p/industrial-researcher) industrial PhD funding with Martin Bertelsen and OxyGuard International A/S for *Intelligent Hydroacoustic Modeling of Fish Feeding and Stress Behavior in Recirculating Aquaculture Systems: Tentative - Application of Acoustic Analysis in Aquaculture (AAAA)*. Will be co-supervising Martin with [Line Clemmensen](https://www.linkedin.com/in/lineclemmensen/?originalSubdomain=dk)
 * 2024-12: Paper **Exploring Local Interpretable Model-Agnostic Explanations for Speech Emotion Recognition with Distribution-Shift** accepted for presentation at [ICASSP 2025](https://2025.ieeeicassp.org/)
 * 2024-12: Starting as the area-chair co-lead for [Interspeech 2025](https://www.interspeech2025.org/home)
 * 2024-08: [Paper: Examining the Interplay Between Privacy and Fairness for Speech Processing: A Review and Perspective](https://www.isca-archive.org/tmp/archive/spsc_2024/leschanowsky24_spsc.html) presented at the SPSC symposium 2024 and has won the **best paper award**!
-* 2024-08: One of the PIs on the EU Horizon MSCA-DN on **AI-Alignment** as a PI and work package leader (€ 600K) - [AlignAI](https://alignai.eu/).
+* 2024-08: One of the PIs on the EU Horizon MSCA-DN on **AI-Alignment** and a work package leader (DTU share € 600K; Total € 3.5m) - [AlignAI](https://alignai.eu/).

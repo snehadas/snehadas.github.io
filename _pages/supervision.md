@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Supervision (Supervisor & Co-supervisor)"
+title: "Supervision (As a supervisor & co-supervisor)"
 permalink: /supervision/
 author_profile: true
 redirect_from:
@@ -12,6 +12,7 @@ redirect_from:
 
 Masters Theses
 ======
+* Maria Christine Neiiendam (2025), *Investigating Memorisation Risks: A Benchmarking Approach For Speech Processing Tasks*
 * Jakub Jedraszka (2025), *Voice biomarkers for predicting cognitive impairment in hearing-and non-hearing-impaired subjects*
 * Ting-Hui Cheng (2025), *Mitigating bias for non-native speakers in automatic speech recognition*
 * Mark Hageman Welin (2025), *Automated Transcription Analysis: Comparing Speech-to-Text Models with Real-World Audio Data*
@@ -41,6 +42,7 @@ Masters Theses
 
 Bachelor Theses
 ======
+* Jawhara Hamoua (2025), *Predicting and detecting Obsessive Compulsive Disorder in Children Using a Foun­dation Models*
 * Lucia Han Lu, Ditte Bjerrum Gilsfeldt (2025), *Federated learning for tackling data heterogeneity in healthcare applications*
 * Christian Houlberg Rand, Bertram Nicolai Hage (2025), *Cross-Silo Federated Learning: Advancing Robustness and Scalability for Practical Applications*
 * Abrahim Deiaa El Din Abbas (2024), *Implementing distributed information retrieval relevancy score service using machine learning and artificial intelligence*
