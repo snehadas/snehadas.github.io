@@ -11,9 +11,12 @@ Talks and Posters (Select)
 ---
 {% include base_path %}
 * 2025
-  * <em> From code to conscience: How MLOps drives trustworthy AI </em>, [Digital Tech summit 2025](https://event.ing.dk/dts5/session/3294275/from-code-to-conscience-how-mlops-drives-trustworthy-ai), Copenhagen, Denmark.
-
-
+  * <em>From code to conscience: How MLOps drives trustworthy AI</em>, [Digital Tech summit 2025](https://event.ing.dk/dts5/session/3294275/from-code-to-conscience-how-mlops-drives-trustworthy-ai), Copenhagen, Denmark.
+  * <em>MLOps and Risk: Data Bias, Explainability & Model Integrity</em>, delivered a 3 hour module for continued education in MLOps at DTU.
+  * <em>No Value Stands Alone: Privacy, Fairness, and Alignment in AI</em>, [MyData 2025](https://conference.mydata.org/2025/session/2916062/what-responsible-ai-means-for-practitioners-infrastructures-and-privacy), Helsinki, Finland.
+  * <em>Low-resource ML & AI-safety</em>, Invited talk at Alexandra Institute, Denmark.
+  * <em>Trustworthy (?) AI</em>, DTU Skylab.
+  * <em>Low-resource ML & AI-safety</em>, Invited talk at IT University Copenhagen
 
 
 * 2024
