@@ -12,8 +12,9 @@ redirect_from:
 I am a tenure-track assistant professor in Statistics and Data Analysis at the Department of Applied Mathematics and Computer Science ([Compute](https://www.compute.dtu.dk/)), Technical University of Denmark ([DTU](https://www.dtu.dk/)). I received my PhD from [Aalto University](https://www.aalto.fi/en), Finland in 2021 within [Speech and Language Technology](https://aaltodoc.aalto.fi/items/1abb540f-0c97-4d7f-98b3-e88b15f08539) under the guidance of [Tom Bäckström](https://www.aalto.fi/en/people/tom-backstrom). Prior to this, I did my MSc in Communication and Multimedia Engineering from [FAU](https://www.fau.eu/) (Friedrich-Alexander-Universität) Erlangen-Nürnberg, Germany in 2016 and my Bachelors in Electronics and Communication Engineering in 2013 (BMS Institute of Technology, India). I was born in [Kolkata](https://en.wikipedia.org/wiki/Kolkata) (Eastern [India](https://en.wikipedia.org/wiki/India)), and lived most of my life in [Bangalore](https://en.wikipedia.org/wiki/Bangalore) (Southern India).
 
 My research is on the following broad themes:
-* **AI-safety**: Ensure the robustness and reliability (among other safety metrics) of models in high-stakes applications.
+* **AI-safety**: Ensuring the robustness and reliability (among other safety metrics) of models, and formalizing their limitations in high-stakes applications.
 * **Low-resource ML**: Ensure that models work with high-fidelity under resource (data, compute) constraints.
+* **Operationalizing compliant AI**: Focusing on regulatory and policy requirements, designing data, and AI ecosystems to support the development of compliant AI systems.  
 
 I work with multi-sensory data, that includes speech and audio, biosignals and visual data modalities, with applications in (mental) healthcare. That said, after years of working with speech signals, it is still one of my favorite signal modalities :-) My research incorporates shared perspective from signal processing, statistics, machine-learning. Equity, accessibility are inclusivity are (usually) the undertones in my research.
 
