@@ -10,6 +10,7 @@ redirect_from:
 
 
 I am a tenure-track assistant professor in Statistics and Data Analysis at the Department of Applied Mathematics and Computer Science ([Compute](https://www.compute.dtu.dk/)), Technical University of Denmark ([DTU](https://www.dtu.dk/)). I received my PhD from [Aalto University](https://www.aalto.fi/en), Finland in 2021 within [Speech and Language Technology](https://aaltodoc.aalto.fi/items/1abb540f-0c97-4d7f-98b3-e88b15f08539) under the guidance of [Tom Bäckström](https://www.aalto.fi/en/people/tom-backstrom). Prior to this, I did my MSc in Communication and Multimedia Engineering from [FAU](https://www.fau.eu/) (Friedrich-Alexander-Universität) Erlangen-Nürnberg, Germany in 2016 and my Bachelors in Electronics and Communication Engineering in 2013 (BMS Institute of Technology, India). I was born in [Kolkata](https://en.wikipedia.org/wiki/Kolkata) (Eastern [India](https://en.wikipedia.org/wiki/India)), and lived most of my life in [Bangalore](https://en.wikipedia.org/wiki/Bangalore) (Southern India).
+I am the WG3 lead in the COST Action [eVoiceNet](https://www.cost.eu/actions/CA24128/) and is a contributor to the CEN/CLC JTC21 on “Artificial Intelligence” via the [Dansk Standard](https://www.ds.dk/da).
 
 My research is on the following broad themes:
 * **AI-safety**: Ensuring the robustness and reliability (among other safety metrics) of models, and formalizing their limitations in high-stakes applications.
@@ -34,7 +35,7 @@ NOTE for potential students: I constantly mentor students on [research and devel
 
 Updates
 ======
-* 2025-10: We receive a Villum Synergy grant to work on **[Catalysis Informatics](https://villumfonden.dk/en/nyhed/researchers-break-new-ground-predicting-climates-critical-shifts)!** with [Alexander Bagger](http://dtu.dk/english/person/alexander-bagger?id=64317&cpid=349351&entity=profile) and [Line Clemmensen](https://www.linkedin.com/in/lineclemmensen/?originalSubdomain=dk). 
+* 2025-10: We receive a Villum Synergy grant to work on **[Catalysis Informatics](https://villumfonden.dk/en/nyhed/researchers-break-new-ground-predicting-climates-critical-shifts)!** with [Alexander Bagger](http://dtu.dk/english/person/alexander-bagger?id=64317&cpid=349351&entity=profile) and [Line Clemmensen](https://www.linkedin.com/in/lineclemmensen/?originalSubdomain=dk).
 * 2024-12: Received the digital infrastructure grant from [Carlsberg Foundation](https://www.carlsbergfondet.dk/en/) for our project **[FairVoice: Benchmark for Equitable Voice AI](https://www.carlsbergfondet.dk/en/what-we-have-funded/cf24-2181/)!** with [Line Clemmensen](https://www.linkedin.com/in/lineclemmensen/?originalSubdomain=dk)
 * 2024-12: Received the [Innovation Fund Denmark](https://innovationsfonden.dk/en/p/industrial-researcher) industrial PhD funding with Martin Bertelsen and OxyGuard International A/S for *Intelligent Hydroacoustic Modeling of Fish Feeding and Stress Behavior in Recirculating Aquaculture Systems: Tentative - Application of Acoustic Analysis in Aquaculture (AAAA)*. Will be co-supervising Martin with [Line Clemmensen](https://www.linkedin.com/in/lineclemmensen/?originalSubdomain=dk)
 * 2024-12: Paper **Exploring Local Interpretable Model-Agnostic Explanations for Speech Emotion Recognition with Distribution-Shift** accepted for presentation at [ICASSP 2025](https://2025.ieeeicassp.org/)
