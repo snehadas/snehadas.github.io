@@ -12,6 +12,11 @@ redirect_from:
 I am a tenure-track assistant professor in Statistics and Data Analysis at the Department of Applied Mathematics and Computer Science ([Compute](https://www.compute.dtu.dk/)), Technical University of Denmark ([DTU](https://www.dtu.dk/)). I received my PhD from [Aalto University](https://www.aalto.fi/en), Finland in 2021 within [Speech and Language Technology](https://aaltodoc.aalto.fi/items/1abb540f-0c97-4d7f-98b3-e88b15f08539) under the guidance of [Tom Bäckström](https://www.aalto.fi/en/people/tom-backstrom). Prior to this, I did my MSc in Communication and Multimedia Engineering from [FAU](https://www.fau.eu/) (Friedrich-Alexander-Universität) Erlangen-Nürnberg, Germany in 2016 and my Bachelors in Electronics and Communication Engineering in 2013 (BMS Institute of Technology, India). I was born in [Kolkata](https://en.wikipedia.org/wiki/Kolkata) (Eastern [India](https://en.wikipedia.org/wiki/India)), and lived most of my life in [Bangalore](https://en.wikipedia.org/wiki/Bangalore) (Southern India).
 I am the WG3 lead in the COST Action [eVoiceNet](https://www.cost.eu/actions/CA24128/) and a contributor to the CEN/CLC JTC21 on “Artificial Intelligence” via the [Dansk Standard](https://www.ds.dk/da).
 
+I have contributed to this book Voice-based biomarkers
+
+![image](pictures/about_me.png)
+
+
 My research is on the following broad themes:
 * **AI-safety**: Ensuring the robustness and reliability (among other safety metrics) of models, and formalizing their limitations in high-stakes applications.
 * **Low-resource ML**: Ensure that models work with high-fidelity under resource (data, compute) constraints.
