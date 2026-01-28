@@ -14,7 +14,7 @@ I am the WG3 lead in the COST Action [eVoiceNet](https://www.cost.eu/actions/CA2
 
 I have contributed to this book [Voice-related biomarkers](https://link.springer.com/book/10.1007/978-3-032-03134-1)
 
-[![image](pictures/book.png)](https://link.springer.com/book/10.1007/978-3-032-03134-1)
+[![image](pictures/book_small.png)](https://link.springer.com/book/10.1007/978-3-032-03134-1)
 
 My research is on the following broad themes:
 * **AI-safety**: Ensuring the robustness and reliability (among other safety metrics) of models, and formalizing their limitations in high-stakes applications.
