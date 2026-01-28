@@ -21,7 +21,7 @@ My research is on the following broad themes:
 * **Low-resource ML**: Ensure that models work with high-fidelity under resource (data, compute) constraints.
 * **Operationalizing compliant AI**: Focusing on regulatory and policy requirements, designing data, and AI ecosystems to support the development of compliant AI systems.  
 
-I work with multi-sensory data, that includes speech and audio, biosignals and visual data modalities, with applications in (mental) healthcare. That said, after years of working with speech signals, it is still one of my favorite signal modalities :-) My research incorporates shared perspective from signal processing, statistics, machine-learning. Equity, accessibility are inclusivity are (usually) the undertones in my research.
+I work with multi-sensory data, that includes speech and audio, biosignals and visual data modalities, with applications in (mental) healthcare. That said, after years of working with speech signals, it is still one of my favorite signal modalities :-) My research incorporates shared perspective from signal processing, statistics, machine-learning. Equity, accessibility are inclusivity are (usually) the undertones in my research. I strongly believe in the need for interdisciplinary teams for development and advancement of technologies - and I strive to put this in my research practice.
 
 <!--
 <span style="color: blue;">**We are hiring [PhD Position 1](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/4334), [PhD Position 2](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/4398) at DTU Compute!!!** More PhD positions from the consortium: [AlignAI website](https://alignai.eu/recruitment/). Please apply through the official links listed in the job descriptions.</span>
@@ -29,8 +29,6 @@ I work with multi-sensory data, that includes speech and audio, biosignals and v
 <!--
 I am also interested in questions on ‘AI-alignment’ at the intersection of technical and non-technical perspectives., alongside AI-safety and reliability, providing the foundational grounding and direction to my research.
 -->
-
-Given the ubiquity and the influence of technology in our lives, I strongly believe in the need for interdisciplinary teams for development and advancement of technologies - and I strive to put this in my research practice.
 
 <!--
 NOTE: If you are interested in these research areas, would like to know more or would like to point me towards your cool research in the domain, feel free to drop a message. I am constantly on a lookout for motivated students and fellow researchers working on similar and complimentary areas.
