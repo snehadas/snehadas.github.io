@@ -28,7 +28,9 @@ I am also interested in questions on ‘AI-alignment’ at the intersection of t
 
 Given the ubiquity and the influence of technology in our lives, I strongly believe in the need for interdisciplinary teams for development and advancement of technologies - and I strive to put this in my research practice.
 
+<!--
 NOTE: If you are interested in these research areas, would like to know more or would like to point me towards your cool research in the domain, feel free to drop a message. I am constantly on a lookout for motivated students and fellow researchers working on similar and complimentary areas.
+-->
 
 NOTE for potential students: I constantly mentor students on [research and development projects](https://snehadas.github.io/supervision/). Feel free to reach out if you are interested in any of the above topics or want to propose one on similar themes.  
 
