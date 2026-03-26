@@ -11,11 +11,11 @@ redirect_from:
 
 PhD Theses
 ======
-* Eva Paraschou (2024-), *Alignment for LLMs and AI in Mental Health* (Official daily advisor + co-supervisor)
-* Hewei Gao (2024-), *Alignment for LLMs and AI in Education* (Official daily advisor + co-supervisor)
-* Martin Bertelsen (2024-), *Intelligent Hydroacoustic Modeling of Fish Feeding* (Co-supervisor; Industrial PhD)
+* Eva Paraschou (2024-), *Alignment for LLMs and AI in Mental Health* (Supervisor)
+* Hewei Gao (2024-), *Alignment for LLMs and AI in Education* (Supervisor)
+* Martin Bertelsen (2024-), *Intelligent Hydroacoustic Modeling of Fish Feeding* (Supervisor; Industrial PhD)
 * Aditya Parikh (2024-), *Label bias and its effect on responsible AI* (Co-supervisor)
-* Harald Skat (2025-), *Informatics catalysis* (Co-supervisor)
+* Harald Skat (2025-), *Informatics catalysis* (Supervisor)
 
 Masters Theses
 ======
