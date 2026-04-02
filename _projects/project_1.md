@@ -1,8 +1,8 @@
 ---
-title: "AI Safety in Speech Processing"
-excerpt: "Developing robust models for high-stakes healthcare applications."
+title: "AI alignment, Safety and Security"
+excerpt: "Developing safe models for high-stakes applications like healthcare and education. This is part of the EU MSCA AlignAI doctoral network"
 collection: projects
-team: "Sneha Das (PI), John Doe, Jane Smith"
+team: "Sneha Das (PI), Eva Paraschou, Hewei Gao"
 header:
   teaser: "project-thumb.png" # Place an image in your /images/ folder
 ---
